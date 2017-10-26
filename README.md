@@ -1,2 +1,2 @@
 # Yahtzee
-OOAD
+OOAD - workshop 1
